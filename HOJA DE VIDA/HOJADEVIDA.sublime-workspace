@@ -1,0 +1,1166 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align-content-",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"table-",
+				"table-secondary \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-content-start \tBootstrap 4 Class"
+			],
+			[
+				"bro",
+				"border\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"table-s",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"col-4",
+				"col-4 \tBootstrap 4 Class"
+			],
+			[
+				"display",
+				"display-3 \tBootstrap 4 Class"
+			],
+			[
+				"table",
+				"table-dark \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"displ",
+				"display-3 \tBootstrap 4 Class"
+			],
+			[
+				"thead-",
+				"thead-inverse \tBootstrap 4 Class"
+			],
+			[
+				"th",
+				"thead-default \tBootstrap 4 Class"
+			],
+			[
+				"P",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"text-",
+				"text-right \tBootstrap 4 Class"
+			],
+			[
+				"align-",
+				"align-content-end \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-primary \tBootstrap 4 Class"
+			],
+			[
+				"align",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"align-con",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"c",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"te",
+				"text-success \tBootstrap 4 Class"
+			],
+			[
+				"b",
+				"btn \tBootstrap 4 Class"
+			],
+			[
+				"align-i",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"align-self",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"justify",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"r",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"ju",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"align-center",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"q",
+				"blockquote-footer \tBootstrap 4 Class"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"b4-te",
+				"b4-starter-template\tTemplate"
+			],
+			[
+				"btn-prim",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"b4-st",
+				"b4-starter-template\tTemplate"
+			],
+			[
+				"ta",
+				"table-dark \tBootstrap 4 Class"
+			],
+			[
+				"m",
+				"order-md-11 \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-4 \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-primary \tBootstrap 4 Class"
+			],
+			[
+				"border-dar",
+				"border-danger \tBootstrap 4 Class"
+			],
+			[
+				"tex",
+				"text-lowercase \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"badge-danger \tBootstrap 4 Class"
+			],
+			[
+				"bg",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"border-da",
+				"border-secondary \tBootstrap 4 Class"
+			],
+			[
+				"mx",
+				"mx-5 \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-4 \tBootstrap 4 Class"
+			],
+			[
+				"t",
+				"text-justify \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-3 \tBootstrap 4 Class"
+			],
+			[
+				"BA",
+				"background-color\tproperty"
+			],
+			[
+				"lorem",
+				"Lorem"
+			],
+			[
+				"b4",
+				"b4-navbar\tNavbar"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"n",
+				"unset\tborder-collapse"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"list-gr",
+				"list-group-item-danger \tBootstrap 4 Class"
+			],
+			[
+				"list-i",
+				"list-inline \tBootstrap 4 Class"
+			],
+			[
+				"l",
+				"list-inline-item \tBootstrap 4 Class"
+			],
+			[
+				"lis",
+				"align-self-stretch \tBootstrap 4 Class"
+			],
+			[
+				"list",
+				"align-items-start \tBootstrap 4 Class"
+			],
+			[
+				"btn-lg",
+				"btn-lg \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-lg \tBootstrap 4 Class"
+			],
+			[
+				"btn-p",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"IN",
+				"inline\tdisplay"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"list-st",
+				"list-style\tproperty"
+			],
+			[
+				"list-style",
+				"list-style\tproperty"
+			],
+			[
+				"ls",
+				"list-style\tproperty"
+			],
+			[
+				"f",
+				"flex-start\talign-items"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"inl",
+				"inline-table\tdisplay"
+			],
+			[
+				"row",
+				"table-row-group\tdisplay"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"list-sty",
+				"list-style-position\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ou",
+				"outline-offset\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-style\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"repe",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"repeat",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"h",
+				"hsla()\tbackground-color"
+			],
+			[
+				"block",
+				"block\tdisplay"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"im",
+				"background-image\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"array",
+				"arrayRapido"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"parcial",
+				"parcial1"
+			],
+			[
+				"index",
+				"index.php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "practica.html",
+			"settings":
+			{
+				"buffer_size": 11493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "experiencialaboral.html",
+			"settings":
+			{
+				"buffer_size": 11493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"PIC",
+				"Color Picker: Insert Color"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/css/estilos.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/estudiosrealizados.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/datospersonales.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/css/estilos.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/bootstrap.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/boot.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/prueba.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/pagina.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/html/formulariopedidos.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/html/pedidos.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/css/formpedidos.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/css/pedidos.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/html/index.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/css/principal.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/html/login.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/CSS/pruebas/taller.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/PROYECTO/SUBLENTARIO/css/estilos.css",
+		"/D/programas/libroweb/libroweb.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/FORMATO INSCRIPCION ASPIRANTES.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/frameset.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/F005.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/index.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/F24-08.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/F011.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/lateral.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/F006.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/lareral.html",
+		"/D/programas/libroweb/misestilos.css",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/practica.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/TALLER 6/formulario.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/experiencialaboral1.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/HOJA DE VIDA/experiencialaboral.html",
+		"/D/CASA/LIS/lis.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/ejerhtml1.html",
+		"/D/ESTUDIO/SENA/DESARROLLO DE SOFTWARE/2DO TRIMESTRE/HTML CSS PHP/HTML/EJERCICIOS/ejerhtml2.html",
+		"/D/programas/VSCODE/index_siete.html",
+		"/D/programas/VSCODE/css/estilos3.css",
+		"/D/programas para instalar/WEB/php/php-7.4.4-devel-vc15-x64/script/run-tests.php",
+		"/D/programas para instalar/LENGUAJES/JAVA CON NETBEANS/netbeans/etc/netbeans.conf",
+		"/D/programas/PYTHON/PRUEBA.PY",
+		"/D/programas/web bootstrap/inicio.html",
+		"/D/programas/WEB/inicio.html",
+		"/C/xampp/htdocs/php/formulario/index.html",
+		"/C/xampp/htdocs/php/formulario/prueba whatsapp.html",
+		"/C/xampp/htdocs/php/formulario.php",
+		"/C/xampp/htdocs/phpbasedatos/codigos.php",
+		"/C/xampp/htdocs/nueva/update.php",
+		"/C/xampp/htdocs/nueva/actualiza.php",
+		"/C/xampp/htdocs/nueva/conexion.php",
+		"/C/xampp/htdocs/nueva/cerrarconexion.php",
+		"/D/programas/php_capitulo10/codigos.php",
+		"/D/programas/php_capitulo10/registro.php",
+		"/C/xampp/htdocs/nueva/edit.php",
+		"/C/xampp/htdocs/nueva/delete.php",
+		"/C/xampp/htdocs/nueva/insert.php",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/practica/formulario.html",
+		"/C/xampp/htdocs/php/archivo.php",
+		"/C/xampp/htdocs/cursophp/04.PDO Y SQL/editado/index.php",
+		"/C/xampp/htdocs/practica/javascript.html",
+		"/C/xampp/htdocs/nueva/links.php",
+		"/C/xampp/htdocs/nueva/index.php",
+		"/C/xampp/htdocs/php/formulario/procesar.php",
+		"/C/xampp/htdocs/nueva/form.php",
+		"/C/xampp/htdocs/nueva/output.php",
+		"/C/xampp/htdocs/nueva/1.xml",
+		"/C/xampp/htdocs/practica/if.html",
+		"/C/xampp/htdocs/practica/if.php",
+		"/C/xampp/htdocs/practica/estilos.css",
+		"/D/MI PRIMER SITIO WEB/css/estilos.css",
+		"/D/MI PRIMER SITIO WEB/css/estilostablas.css",
+		"/D/MI PRIMER SITIO WEB/css/estiloslistas.css",
+		"/D/MI PRIMER SITIO WEB/css/estilosformularios.css",
+		"/D/MI PRIMER SITIO WEB/css/estilosimagenes.css",
+		"/D/MI PRIMER SITIO WEB/css/estiloslayout.css",
+		"/C/xampp/htdocs/php/proceso.php",
+		"/D/PAGINA WEB/javascript curso.html",
+		"/D/PAGINA WEB/index.html",
+		"/C/xampp/htdocs/programas/new 1.php",
+		"/D/TUTORIALES/Desarrollo Web Rapido HTML5, CSS3 y Bootstrap 3/Archivos base/Fonts/font-awesome/css/font-awesome.css",
+		"/D/MI PRIMER SITIO WEB/index.html",
+		"/D/MI PRIMER SITIO WEB/layout.html",
+		"/D/MI PRIMER SITIO WEB/estilos.css",
+		"/C/xampp/htdocs/php/formulario/formulario/index.html",
+		"/C/xampp/htdocs/cursophp/04.PDO Y SQL/editado/models/enlaces.php",
+		"/C/xampp/htdocs/cursophp/04.PDO Y SQL/editado/models/crud.php",
+		"/C/xampp/htdocs/cursophp/04.PDO Y SQL/editado/models/conexion.php",
+		"/C/xampp/htdocs/cursophp/04.PDO Y SQL/editado/controllers/controller.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/modules/servicios.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/modules/nosotros.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/modules/inicio.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/modules/contactenos.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/modules/navegacion.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/views/template.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/index.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/controllers/controller.php",
+		"/C/xampp/htdocs/cursophp/03.MVC/models/model.php",
+		"/D/TUTORIALES/Crea aplicaciones PHP seguras con POO-MVC, PDO-SQL y AJAX/Archivos base/012 Introducción a MVC/03.MVC/views/template.php",
+		"/C/xampp/htdocs/cursophp/02.POO/codigoimperativo.php",
+		"/C/xampp/htdocs/cursophp/02.POO/poo.php",
+		"/C/xampp/htdocs/cursophp/02.POO/codigoimperativo",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/xampp/htdocs/cursophp/02.POO/01codigoimperativo.php",
+		"/C/xampp/htdocs/cursophp/02.POO/02poo.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "practica.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								11493
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#00008bff",
+								"#808080ff"
+							],
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"webcolors",
+									"hwb",
+									"hwba",
+									"graya",
+									"hex",
+									"rgb",
+									"rgba",
+									"hex_compressed",
+									"hexa",
+									"hsl",
+									"hsla",
+									"hexa_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1591226055.4,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "experiencialaboral.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11493,
+								11493
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										11488,
+										11492
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#00008bff",
+								"#808080ff"
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"hsla",
+									"rgba",
+									"gray",
+									"hexa",
+									"graya",
+									"hwb",
+									"rgb",
+									"webcolors",
+									"hwba",
+									"hexa_compressed",
+									"hex",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1591296979.7,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.476047904192,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HOJADEVIDA.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

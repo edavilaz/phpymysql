@@ -1,0 +1,10 @@
+body{
+		background-image: url(../img/pared.jpg);
+		font-size: 20px;
+		font-family: "Arial Black";
+		font-style: oblique;
+}
+
+figure img {
+		width: 15%;
+}
