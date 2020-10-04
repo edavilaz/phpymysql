@@ -9,14 +9,16 @@
 <title>Titulo</title>
     </head>
     <body>
-    <body>
-        <?php
-        copy($_FILES['foto']['tmp_name'],$_FILES['foto']['name']);
-        echo "La foto se registro en el servidor.<br>";
-        $nom=$_FILES['foto']['name'];
-        echo "<img src=\"$nom\">";
-        ?>
-    </body> 
+        <form action="9.1a.php" method="post" enctype="multipart/form-data">
+            Seleccione las imágenes:
+            <br>
+            
+            <input type="file"  class="btn btn-danger" name="foto1"><br>
+            <input type="file"  class="btn btn-warning" name="foto2"><br>
+            <input type="file"  class="btn btn-success" name="foto3"><br>
+
+            <input type="submit" class="btn btn-primary btn-group-sm" value="Enviar">
+        </form> 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src='https://code.jquery.com/jquery-3.4.1.slim.min.js' integrity='sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n' crossorigin='anonymous'></script>
 <!-- Optional JavaScript -->

@@ -11,10 +11,25 @@
     <body>
     <body>
         <?php
-        copy($_FILES['foto']['tmp_name'],$_FILES['foto']['name']);
-        echo "La foto se registro en el servidor.<br>";
-        $nom=$_FILES['foto']['name'];
-        echo "<img src=\"$nom\">";
+        
+        copy($_FILES['foto1']['tmp_name'],$_FILES['foto1']['name']);
+                
+        copy($_FILES['foto2']['tmp_name'],$_FILES['foto2']['name']);
+        
+        copy($_FILES['foto3']['tmp_name'],$_FILES['foto3']['name']);
+        echo "Las fotos se registraron en el servidor.<br>";
+        
+        $nom1=$_FILES['foto1']['name'];
+        $nom2=$_FILES['foto2']['name'];
+        $nom3=$_FILES['foto3']['name'];
+
+        echo "<img src=\"$nom1\">";
+        echo "<img src=\"$nom2\">";
+        echo "<img src=\"$nom3\">";
+        
+               
+        
+        
         ?>
     </body> 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
